@@ -1,0 +1,20 @@
+[
+  {
+    "name": "iphone",
+    "price": 500,
+    "featured": true,
+    "company": "apple"
+  },
+  {
+    "name": "iphone1",
+    "price": 501,
+    "featured": true,
+    "company": "apple"
+  },
+  {
+    "name": "iphone2",
+    "price": 502,
+    "featured": false,
+    "company": "apple"
+  }
+]
